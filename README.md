@@ -7,7 +7,7 @@
  3-Faster access
 ## Declaring and initializing Arrays
 
-## Syntax
+### Syntax
 
  data type[] arrayname;
 
@@ -26,5 +26,9 @@ int[] numbers = { 10, 20, 30, 40, 50 };
 ##Array.Sort
    "It is used to sort the elements of arrays in access ending order."
 
+###Example
+    
+  int[] arr = { 5, 3, 1 };
+   Array.Sort(arr);
 
 
