@@ -5,13 +5,15 @@
  1-Store multiple values in single variable
  2-Easy data management 
  3-Faster access
-## Declaring and initializing Arrays
+## Description (Example 1)
+    
+In this example first we initialize an array and declare it 
 
 ### Syntax
 
  data type[] arrayname;
 
-int[] numbers = { 10, 20, 30, 40, 50 };
+int[] numbers = {  };
 
 ## Accessing elements of Array
 
