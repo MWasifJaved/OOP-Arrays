@@ -9,13 +9,13 @@
     
 In this example first we initialize an array and declare it 
 
-### Syntax
+### 1-Syntax
 
  data type[] arrayname;
 
-int[] numbers = {  };
+int[] numbers = {10,20,30,40,50 };
 
-## Accessing elements of Array
+### 2-Accessing elements of Array
 
     The elements of arrays are accessed by using index numbers.
 
@@ -23,10 +23,15 @@ int[] numbers = {  };
  Console.WriteLine(numbers[0]);    
    //Output: 10
 
-# Methods in arrays
+  Now can also access elements of arrays by using loops such as for loops and for each loop.
+
+# Methods in arrays(Examples)
+
+ In this example there are different methods that are used such as "Array.sort" and "Array.max" etc.
+
 
 ## Array.Sort
-   "It is used to sort the elements of arrays in access ending order."
+   "It is used to sort the elements of arrays in accessending order."
 
 ### Example
     
