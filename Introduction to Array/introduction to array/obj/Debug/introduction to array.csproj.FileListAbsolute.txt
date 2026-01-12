@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\introduction to array\introduction to array\obj\Debug\introduction to array.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\introduction to array\introduction to array\obj\Debug\introduction to array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\introduction to array\introduction to array\bin\Debug\introduction to array.exe.config
+C:\Users\User\source\repos\introduction to array\introduction to array\bin\Debug\introduction to array.exe
+C:\Users\User\source\repos\introduction to array\introduction to array\bin\Debug\introduction to array.pdb
+C:\Users\User\source\repos\introduction to array\introduction to array\obj\Debug\introduction to array.exe
+C:\Users\User\source\repos\introduction to array\introduction to array\obj\Debug\introduction to array.pdb
+C:\Users\User\source\repos\introduction to array\introduction to array\obj\Debug\introduction to array.exe.config
