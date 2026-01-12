@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\bin\Debug\Methods in array(sort,max,min).exe.config
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\bin\Debug\Methods in array(sort,max,min).exe
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\bin\Debug\Methods in array(sort,max,min).pdb
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\obj\Debug\Methods in array(sort,max,min).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\obj\Debug\Methods in array(sort,max,min).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\obj\Debug\Methods in array(sort,max,min).exe
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\obj\Debug\Methods in array(sort,max,min).pdb
+C:\Users\User\source\repos\Methods in array(sort,max,min)\Methods in array(sort,max,min)\obj\Debug\Methods in array(sort,max,min).exe.config
