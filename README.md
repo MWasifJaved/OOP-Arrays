@@ -7,7 +7,8 @@
  3-Faster access
 ## Declaring and initializing Arrays
 
-###Syntax
+Syntax
+----------------
 
  data type[] arrayname;
 
