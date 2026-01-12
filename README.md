@@ -23,12 +23,12 @@ int[] numbers = { 10, 20, 30, 40, 50 };
 
 # Methods in arrays
 
-##Array.Sort
+## Array.Sort
    "It is used to sort the elements of arrays in access ending order."
 
-###Example
+### Example
     
-  int[] arr = { 5, 3, 1 };
+   int[] arr = { 5, 3, 1 };
    Array.Sort(arr);
 
 
