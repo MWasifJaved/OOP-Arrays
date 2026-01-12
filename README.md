@@ -8,5 +8,7 @@
 ## Declaring and initializing Arrays
 
 ###Syntax
+
  data type[] arrayname;
+
 int[] numbers = { 10, 20, 30, 40, 50 };
